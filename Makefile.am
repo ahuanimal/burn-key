@@ -1,0 +1,3 @@
+AUTOMAKE_OPTIONS=foreign
+bin_PROGRAMS=burn_key
+burn_key_SOURCES=burn_key.c

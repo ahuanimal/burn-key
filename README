@@ -1,0 +1,14 @@
+Summary
+=======
+evtest is a tool to flash sn&mac to fd named /dev/params.
+
+Usage:
+   burn_key 
+   -h --help         help
+   -R --read         read the device info
+   -W --write        write the device info
+   -F --force        force write  the device info
+   -s --board_sn     board_sn
+   -m --mac_addr     eth mac add
+   -l --flash_lock   flash lock
+   -v --version      version
